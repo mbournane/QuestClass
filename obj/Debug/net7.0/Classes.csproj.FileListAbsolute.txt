@@ -1,0 +1,15 @@
+C:\WildSchoul_Formation\S03\Quests\Classes\bin\Debug\net7.0\Classes.exe
+C:\WildSchoul_Formation\S03\Quests\Classes\bin\Debug\net7.0\Classes.deps.json
+C:\WildSchoul_Formation\S03\Quests\Classes\bin\Debug\net7.0\Classes.runtimeconfig.json
+C:\WildSchoul_Formation\S03\Quests\Classes\bin\Debug\net7.0\Classes.dll
+C:\WildSchoul_Formation\S03\Quests\Classes\bin\Debug\net7.0\Classes.pdb
+C:\WildSchoul_Formation\S03\Quests\Classes\obj\Debug\net7.0\Classes.csproj.AssemblyReference.cache
+C:\WildSchoul_Formation\S03\Quests\Classes\obj\Debug\net7.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\WildSchoul_Formation\S03\Quests\Classes\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
+C:\WildSchoul_Formation\S03\Quests\Classes\obj\Debug\net7.0\Classes.AssemblyInfo.cs
+C:\WildSchoul_Formation\S03\Quests\Classes\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+C:\WildSchoul_Formation\S03\Quests\Classes\obj\Debug\net7.0\Classes.dll
+C:\WildSchoul_Formation\S03\Quests\Classes\obj\Debug\net7.0\refint\Classes.dll
+C:\WildSchoul_Formation\S03\Quests\Classes\obj\Debug\net7.0\Classes.pdb
+C:\WildSchoul_Formation\S03\Quests\Classes\obj\Debug\net7.0\Classes.genruntimeconfig.cache
+C:\WildSchoul_Formation\S03\Quests\Classes\obj\Debug\net7.0\ref\Classes.dll
